@@ -1,5 +1,7 @@
 # Stochastix
-The app is currently on Version 0.1.0.
+The app is currently on Version 0.1.0-beta. 
+
+**Stochastix is currently unstable - to report any bugs feel free to open an Issue!**
 ```
  .oooooo..o     .                       oooo                               .    o8o              
 d8P'    `Y8   .o8                       `888                             .o8    `"'              
