@@ -1,5 +1,5 @@
 # Stochastix
-
+The app is currently on Version 0.1.0.
 ```
  .oooooo..o     .                       oooo                               .    o8o              
 d8P'    `Y8   .o8                       `888                             .o8    `"'              
