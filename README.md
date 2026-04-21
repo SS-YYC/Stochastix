@@ -9,6 +9,7 @@ Y88bo.      .o888oo  .ooooo.   .ooooo.   888 .oo.    .oooo.    .oooo.o .o888oo o
 oo     .d8P   888 . 888   888 888   .o8  888   888  d8(  888  o.  )88b   888 .  888   .o8"'88b   
 8""88888P'    "888" `Y8bod8P' `Y8bod8P' o888o o888o `Y888""8o 8""888P'   "888" o888o o88'   888o  v1.0.1
 ```
+[![Github All Releases](https://img.shields.io/github/downloads/SS-YYC/Stochastix/total.svg)]()
 
 A lightweight Monte Carlo simulation engine for Python. Run thousands - or millions - of random trials from your terminal and get clear, plain-English statistical summaries without storing every result in memory.
 
